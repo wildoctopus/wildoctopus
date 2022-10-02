@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 ### :man_technologist: About Me :
 👋 Hi, I’m a Machine Learning Enthusiast with years of hands-on experience in designing and implementing robust and scalable application.
 - 👀 Love to explore SOTA papers in Computer Vision Deep Learning
-- 🌱 Currently exploring technical contnt writing
+- 🌱 Currently exploring technical content writing
 - 📫 Connect me on linkedIn
 
 ---
