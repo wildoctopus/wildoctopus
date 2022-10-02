@@ -1,13 +1,14 @@
 <!---
 wildoctopus/wildoctopus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+- 💞️ I’m looking to collaborate on ...
 --->
 
 <div id="header" align="center">
   <img src="wildoctopus.gif" width="200"/>
   
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="[your-linkedin-URL](https://www.linkedin.com/in/alok-pandey/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
@@ -26,11 +27,10 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ### :man_technologist: About Me :
-- 👋 Hi, I’m @wildoctopus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m a Machine Learning Enthusiast with years of hands-on experience in designing and implementing robust and scalable application.
+- 👀 Love to explore SOTA papers in Computer Vision Deep Learning
+- 🌱 Currently exploring technical contnt writing
+- 📫 Connect me on linkedIn
 
 ---
 
