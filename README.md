@@ -62,6 +62,7 @@ You can click the Preview link to take a look at your changes.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Linear Regression — From EDA to Model Optimization&lpar;Part 1&rpar;](https://medium.com/analytics-vidhya/linear-regression-from-eda-to-model-optimization-part-1-2b7b3138373f?source=rss-8eb7e363454c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
