@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
   <img src="wildoctopus.gif" width="200"/>
   
   <div id="badges">
-    <a href="[your-linkedin-URL](https://www.linkedin.com/in/alok-pandey/)">
+    <a href="https://www.linkedin.com/in/alok-pandey/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
